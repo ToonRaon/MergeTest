@@ -1,2 +1,2 @@
 aaaaaaaaaaaaaaaaaaaa
-채팅 기능 개발 중... (1/2)
+채팅 기능 개발 완료! (2/2)
